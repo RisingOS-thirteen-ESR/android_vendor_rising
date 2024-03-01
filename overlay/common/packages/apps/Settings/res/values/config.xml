@@ -32,7 +32,7 @@
     <string name="config_styles_and_wallpaper_picker_class">com.android.customization.picker.CustomizationPickerActivity</string>
     <string name="config_wallpaper_picker_action">android.intent.action.MAIN</string>
     <string name="config_wallpaper_picker_class">com.google.android.apps.wallpaper.picker.CategoryPickerActivity</string>
-    <string name="config_wallpaper_picker_package">com.google.android.apps.wallpaper</string>
+    <string name="config_wallpaper_picker_package">com.android.wallpaper</string>
 
     <!-- Whether memory from app_info_settings is available or not. -->
     <bool name="config_show_app_info_settings_memory">true</bool>
