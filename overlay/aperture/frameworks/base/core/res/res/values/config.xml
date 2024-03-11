@@ -17,5 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Default component for QR code scanner -->
-    <string name="config_defaultQrCodeComponent" translatable="false">org.lineageos.aperture/.QrScannerActivity</string>
+    <string name="config_defaultQrCodeComponent" translatable="false">com.google.android.apps.googlecamera.fishfood/.MainActivity</string>
 </resources>
